@@ -1,1 +1,133 @@
+# EVA - Valor Económico Agregado
+
+## 1. Introducción
+
+El EVA (Economic Value Added) o Valor Económico Agregado es un indicador que mide si una empresa realmente está creando valor por encima de su costo de capital.
+
+A diferencia de la utilidad contable, el EVA considera el costo total del capital invertido.
+
+En términos simples:
+
+Una empresa crea valor solo si su rentabilidad supera su WACC.
+
+En Colombia, el EVA es utilizado en:
+
+- Evaluación de desempeño empresarial
+- Análisis estratégico
+- Control financiero corporativo
+- Medición de creación de valor
+
+---
+
+## 2. Fórmula del EVA
+
+EVA = NOPAT − (Capital Invertido × WACC)
+
+Donde:
+
+- NOPAT = Utilidad operativa después de impuestos
+- Capital Invertido = Recursos utilizados para operar
+- WACC = Costo promedio ponderado de capital
+
+---
+
+## 3. ¿Qué es el NOPAT?
+
+NOPAT (Net Operating Profit After Taxes) es:
+
+Utilidad operativa × (1 − tasa de impuesto)
+
+No incluye gastos financieros.
+
+Representa el rendimiento operativo puro.
+
+---
+
+## 4. Interpretación del EVA
+
+- EVA > 0 → La empresa crea valor.
+- EVA = 0 → La empresa cubre exactamente su costo de capital.
+- EVA < 0 → La empresa destruye valor.
+
+El EVA muestra si la rentabilidad es suficiente para compensar el riesgo asumido.
+
+---
+
+## 5. Ejemplo práctico
+
+Supongamos:
+
+NOPAT: 900.000.000  
+Capital invertido: 5.000.000.000  
+WACC: 14%
+
+Paso 1: Calcular costo del capital
+
+Costo capital = 5.000.000.000 × 0.14  
+Costo capital = 700.000.000
+
+Paso 2: Calcular EVA
+
+EVA = 900.000.000 − 700.000.000  
+EVA = 200.000.000
+
+Resultado:
+
+La empresa está creando $200.000.000 en valor económico.
+
+---
+
+## 6. Relación con la Valoración Empresarial
+
+El EVA está relacionado con:
+
+- Rentabilidad operativa
+- WACC
+- Creación de valor
+
+Una empresa con EVA positivo sostenido tenderá a aumentar su valor de mercado.
+
+---
+
+## 7. Ventajas del EVA
+
+- Mide creación real de valor.
+- Incorpora el costo del capital.
+- Permite evaluar desempeño gerencial.
+- Es útil para incentivos corporativos.
+
+---
+
+## 8. Limitaciones
+
+- Requiere estimación adecuada del WACC.
+- Depende de ajustes contables.
+- Puede ser sensible a decisiones contables.
+
+---
+
+## 9. Aplicación en Colombia
+
+En el contexto colombiano, el EVA es útil para:
+
+- Empresas industriales
+- Compañías familiares en expansión
+- Evaluación de unidades de negocio
+- Toma de decisiones estratégicas
+
+Permite analizar si la empresa realmente genera valor por encima del costo financiero.
+
+---
+
+## 10. Conclusión
+
+El EVA es una herramienta poderosa para medir creación de valor económico.
+
+En valoración empresarial, complementa el DCF al evaluar si la empresa:
+
+- Está generando retornos superiores a su costo de capital.
+- Está destruyendo valor.
+- Está operando eficientemente.
+
+Su análisis permite fortalecer la toma de decisiones estratégicas en el entorno empresarial colombiano.
 
