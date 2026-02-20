@@ -1,1 +1,134 @@
+# CAPM Aplicado a Colombia
+
+## 1. Introducción
+
+El CAPM (Capital Asset Pricing Model) es el modelo más utilizado para calcular el costo del patrimonio (Re).
+
+Permite estimar la rentabilidad que exigen los inversionistas por invertir en una empresa considerando el riesgo del mercado.
+
+En valoración empresarial, el CAPM es fundamental porque:
+
+El costo del patrimonio es un componente clave del WACC.
+
+---
+
+## 2. Fórmula del CAPM
+
+Re = Rf + β (Rm − Rf)
+
+Donde:
+
+- Re = Costo del patrimonio
+- Rf = Tasa libre de riesgo
+- β = Beta (riesgo sistemático)
+- Rm = Rentabilidad esperada del mercado
+- (Rm − Rf) = Prima de riesgo del mercado
+
+---
+
+## 3. Componentes del CAPM en Colombia
+
+### 3.1 Tasa Libre de Riesgo (Rf)
+
+En Colombia, puede aproximarse con:
+
+- Bonos del Gobierno (TES)
+- Bonos soberanos de largo plazo
+
+También puede utilizarse como referencia la tasa de bonos del Tesoro de EE.UU., ajustada por riesgo país.
+
+---
+
+### 3.2 Beta (β)
+
+El beta mide la sensibilidad del rendimiento de una empresa frente al mercado.
+
+- β > 1 → Empresa más riesgosa que el mercado.
+- β < 1 → Empresa menos riesgosa que el mercado.
+- β = 1 → Riesgo promedio del mercado.
+
+En Colombia, el beta puede obtenerse de:
+
+- Empresas listadas en la Bolsa de Valores de Colombia
+- Bases de datos financieras internacionales
+
+---
+
+### 3.3 Prima de riesgo del mercado (Rm − Rf)
+
+Es la rentabilidad adicional que exigen los inversionistas por invertir en acciones en lugar de activos libres de riesgo.
+
+En mercados emergentes como Colombia, esta prima suele ser mayor que en economías desarrolladas.
+
+---
+
+## 4. Ajuste por Riesgo País
+
+En economías emergentes, el modelo CAPM puede ajustarse agregando una prima de riesgo país:
+
+Re = Rf + β (Rm − Rf) + Prima de Riesgo País
+
+Este ajuste es común en valoraciones en Colombia.
+
+---
+
+## 5. Ejemplo práctico
+
+Supongamos:
+
+Tasa libre de riesgo (Rf): 6%  
+Beta (β): 1.2  
+Prima de mercado: 5%  
+Prima de riesgo país: 3%
+
+Paso 1: Aplicar CAPM básico
+
+Re = 6% + 1.2 × 5%  
+Re = 6% + 6%  
+Re = 12%
+
+Paso 2: Ajustar por riesgo país
+
+Re ajustado = 12% + 3%  
+Re ajustado = 15%
+
+Ese sería el costo del patrimonio para usar en el WACC.
+
+---
+
+## 6. Importancia del CAPM en Colombia
+
+El CAPM permite:
+
+- Incorporar riesgo sistemático
+- Ajustar por condiciones macroeconómicas
+- Determinar tasa adecuada para DCF
+- Realizar valoraciones coherentes con el entorno económico
+
+En Colombia, el riesgo país y la volatilidad del mercado hacen necesario este ajuste.
+
+---
+
+## 7. Limitaciones del CAPM
+
+- Supone mercados eficientes
+- Beta puede variar con el tiempo
+- Depende de estimaciones históricas
+- Sensible a supuestos macroeconómicos
+
+Por eso, en valoraciones profesionales se complementa con análisis cualitativo.
+
+---
+
+## 8. Conclusión
+
+El CAPM es la herramienta estándar para calcular el costo del patrimonio en valoración empresarial.
+
+En Colombia, debe ajustarse por:
+
+- Riesgo país
+- Inflación
+- Volatilidad sectorial
+
+Su correcta aplicación es fundamental para determinar un WACC coherente y realizar valoraciones rigurosas.
 
