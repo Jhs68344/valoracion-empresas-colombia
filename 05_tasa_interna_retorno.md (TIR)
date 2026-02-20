@@ -1,1 +1,124 @@
+# Tasa Interna de Retorno (TIR)
+
+## 1. Introducción
+
+La Tasa Interna de Retorno (TIR) es uno de los indicadores más utilizados en la evaluación de proyectos de inversión.
+
+La TIR representa la tasa de descuento que hace que el Valor Presente Neto (VPN) sea igual a cero.
+
+En otras palabras:
+
+Es la tasa de rentabilidad esperada del proyecto.
+
+En Colombia, la TIR se utiliza ampliamente en:
+
+- Evaluación de proyectos empresariales
+- Inversión inmobiliaria
+- Análisis de startups
+- Estudios de factibilidad
+- Decisiones de expansión corporativa
+
+---
+
+## 2. Definición matemática
+
+La TIR es la tasa r que satisface:
+
+0 = Σ [ FCL_t / (1 + r)^t ] − Inversión Inicial
+
+Es decir, la tasa que hace que el valor presente de los flujos futuros sea igual a la inversión inicial.
+
+---
+
+## 3. Interpretación
+
+- Si TIR > Costo de Capital → El proyecto es rentable.
+- Si TIR = Costo de Capital → Proyecto indiferente.
+- Si TIR < Costo de Capital → Proyecto no recomendable.
+
+La TIR se compara normalmente con el WACC.
+
+---
+
+## 4. Ejemplo práctico
+
+Supongamos:
+
+Inversión inicial: $500.000.000  
+Flujos proyectados:
+
+Año 1: 150.000.000  
+Año 2: 180.000.000  
+Año 3: 200.000.000  
+Año 4: 220.000.000  
+
+La TIR será la tasa que haga que el VPN sea cero.
+
+En Excel puede calcularse con:
+
+=TIR(rango_de_flujos)
+
+El resultado podría ser, por ejemplo:
+
+TIR ≈ 18%
+
+Esto significa que el proyecto genera una rentabilidad anual aproximada del 18%.
+
+---
+
+## 5. Relación con el VPN
+
+El VPN mide cuánto valor se crea.
+La TIR mide la rentabilidad porcentual del proyecto.
+
+Ambos indicadores deben analizarse conjuntamente.
+
+En proyectos mutuamente excluyentes, el VPN suele ser más confiable.
+
+---
+
+## 6. Ventajas de la TIR
+
+- Fácil de interpretar
+- Expresada en porcentaje
+- Permite comparar alternativas
+- Muy utilizada en decisiones empresariales
+
+---
+
+## 7. Limitaciones
+
+- Puede existir más de una TIR en proyectos con flujos no convencionales.
+- No mide creación absoluta de valor.
+- Puede inducir errores si se compara con proyectos de distinta escala.
+
+Por eso, no debe analizarse de manera aislada.
+
+---
+
+## 8. Aplicación en Colombia
+
+En el contexto colombiano, la TIR se utiliza para:
+
+- Evaluar inversiones privadas
+- Justificar proyectos ante entidades financieras
+- Analizar rentabilidad inmobiliaria
+- Comparar oportunidades empresariales
+
+Se debe comparar siempre con:
+
+- WACC
+- Tasa mínima requerida de retorno
+- Riesgo país
+- Inflación proyectada
+
+---
+
+## 9. Conclusión
+
+La TIR es una herramienta fundamental en valoración empresarial.
+
+Permite estimar la rentabilidad interna de un proyecto y compararla con el costo de capital.
+
+En Colombia, su correcta aplicación contribuye a tomar decisiones de inversión más informadas y estratégicas.
 
