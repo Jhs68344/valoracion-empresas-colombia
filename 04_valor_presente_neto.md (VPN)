@@ -1,1 +1,149 @@
+# Valor Presente Neto (VPN)
+
+## 1. Introducción
+
+El Valor Presente Neto (VPN) es uno de los criterios más utilizados para evaluar proyectos de inversión.
+
+Se basa en un principio simple:
+
+Un proyecto es rentable si el valor presente de sus flujos futuros es mayor que la inversión inicial.
+
+El VPN permite determinar si una inversión:
+
+- Genera valor
+- Destruye valor
+- Es indiferente financieramente
+
+En Colombia, es ampliamente utilizado en:
+
+- Evaluación de proyectos empresariales
+- Análisis financiero corporativo
+- Decisiones de expansión
+- Estudios de factibilidad
+
+---
+
+## 2. Fórmula del VPN
+
+VPN = Σ [ FCL_t / (1 + r)^t ] − Inversión Inicial
+
+Donde:
+
+- FCL_t = Flujo de caja en el período t
+- r = Tasa de descuento
+- t = Número de períodos
+- Inversión inicial = Desembolso en el período 0
+
+---
+
+## 3. Interpretación del VPN
+
+- Si VPN > 0 → El proyecto genera valor.
+- Si VPN = 0 → El proyecto es financieramente indiferente.
+- Si VPN < 0 → El proyecto destruye valor.
+
+El VPN mide cuánto valor adicional se crea hoy.
+
+---
+
+## 4. Ejemplo práctico
+
+Supongamos:
+
+Inversión inicial: $1.000.000.000  
+Flujos proyectados:
+
+Año 1: 300.000.000  
+Año 2: 350.000.000  
+Año 3: 400.000.000  
+Año 4: 450.000.000  
+
+Tasa de descuento: 12%
+
+Paso 1: Descontar cada flujo:
+
+Año 1:
+300.000.000 / 1.12
+
+Año 2:
+350.000.000 / (1.12)^2
+
+Año 3:
+400.000.000 / (1.12)^3
+
+Año 4:
+450.000.000 / (1.12)^4
+
+Paso 2: Sumar valores presentes.
+
+Paso 3: Restar la inversión inicial.
+
+Si el resultado es positivo, el proyecto crea valor.
+
+---
+
+## 5. Relación con el DCF
+
+El VPN es la aplicación directa del modelo DCF a un proyecto específico.
+
+Mientras el DCF valora una empresa completa,
+el VPN evalúa un proyecto individual.
+
+---
+
+## 6. Importancia en Colombia
+
+En el entorno colombiano, el VPN es clave para:
+
+- Evaluar proyectos de infraestructura
+- Analizar inversiones industriales
+- Decidir expansión empresarial
+- Justificar financiamiento bancario
+
+Las entidades financieras suelen exigir análisis de VPN antes de aprobar créditos empresariales.
+
+---
+
+## 7. Sensibilidad del VPN
+
+El VPN es altamente sensible a:
+
+- La tasa de descuento
+- La proyección de flujos
+- El crecimiento esperado
+- El riesgo país
+
+Pequeños cambios en la tasa pueden modificar significativamente el resultado.
+
+---
+
+## 8. Ventajas del VPN
+
+- Basado en generación real de efectivo
+- Considera el valor del dinero en el tiempo
+- Mide creación de valor
+- Permite comparar proyectos
+
+---
+
+## 9. Limitaciones
+
+- Depende de proyecciones futuras
+- Requiere estimación adecuada del WACC
+- Sensible a supuestos macroeconómicos
+
+---
+
+## 10. Conclusión
+
+El Valor Presente Neto es una herramienta fundamental en la valoración empresarial.
+
+En Colombia, su aplicación permite:
+
+- Tomar decisiones de inversión objetivas
+- Evaluar rentabilidad real
+- Reducir incertidumbre financiera
+- Maximizar creación de valor
+
+Es uno de los pilares técnicos del análisis financiero profesional.
 
